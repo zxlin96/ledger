@@ -11,8 +11,8 @@
 		"prefix": "ledger_add",
 		"body": [
 			"$CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE * ",
-			"	费用:		CNY"
-			"	资产:		CNY"
+			"	费用:		CNY "
+			"	资产:		CNY "
 		],
 		"description": "Ledger add a count"
 	}
